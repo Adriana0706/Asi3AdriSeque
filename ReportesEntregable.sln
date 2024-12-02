@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportesEntregable", "ReportesEntregable\ReportesEntregable.csproj", "{960AC7AC-F6F5-47AD-8622-E08C113056F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{960AC7AC-F6F5-47AD-8622-E08C113056F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{960AC7AC-F6F5-47AD-8622-E08C113056F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{960AC7AC-F6F5-47AD-8622-E08C113056F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{960AC7AC-F6F5-47AD-8622-E08C113056F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {782B6A33-C28E-46AF-A82B-5366416F1BBB}
+	EndGlobalSection
+EndGlobal
